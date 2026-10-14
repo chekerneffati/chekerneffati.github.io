@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Neffati;Cheker;;;
+FN:Cheker Neffati
+TITLE:M.Sc.A. Student in Automated Production Engineering
+ORG:ETS Montreal;LARCASE lab
+EMAIL;TYPE=INTERNET,WORK,PREF:cheker.neffati@etsmtl.ca
+EMAIL;TYPE=INTERNET,HOME:neffaticheker4@gmail.com
+URL:https://www.linkedin.com/in/cheker-neffati
+NOTE:Machine learning for pilot behavioral profiling during takeoff (C-PILOT project). Met at CASI 2026, Winnipeg.
+END:VCARD
